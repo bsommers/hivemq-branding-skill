@@ -1,0 +1,71 @@
+[
+  {
+    "id": "eval-0",
+    "prompt": "Create a 5-slide presentation about HiveMQ's MQTT broker capabilities for an enterprise customer meeting. Include: title slide, overview of MQTT, HiveMQ broker features, use cases, and contact slide.",
+    "expectations": [
+      "Presentation uses HiveMQ brand colors (yellow #FFC000, black, white)",
+      "HiveMQ logo or logomark appears on slides",
+      "Slides use Arial font",
+      "Design is modern and professional",
+      "Yellow accents are used appropriately",
+      "Slide backgrounds use approved color schemes (white, black, or yellow)"
+    ],
+    "input_files": []
+  },
+  {
+    "id": "eval-1",
+    "prompt": "Create a Word document white paper titled 'IoT Data Management Best Practices' with HiveMQ branding. Include a cover page, 3-4 sections with headings, and use tables where appropriate.",
+    "expectations": [
+      "Document uses US Letter page size",
+      "HiveMQ logo appears on cover page",
+      "Colors follow brand guidelines (yellow #FFC000, black, white)",
+      "Typography is Arial throughout",
+      "Headers/footers include HiveMQ branding elements",
+      "Tables use branded colors (black or yellow headers)",
+      "Design is clean and professional"
+    ],
+    "input_files": []
+  },
+  {
+    "id": "eval-2",
+    "prompt": "Design a one-page product sheet for HiveMQ Cloud with HiveMQ branding. Include key features, benefits, and a call-to-action.",
+    "expectations": [
+      "Uses HiveMQ brand colors effectively",
+      "HiveMQ logo is prominently displayed",
+      "Layout is clean and modern",
+      "Yellow accents draw attention to key information",
+      "Uses Arial font",
+      "White space is used effectively",
+      "Professional B2B design quality"
+    ],
+    "input_files": []
+  },
+  {
+    "id": "eval-3",
+    "prompt": "Create a quarterly business review presentation template for HiveMQ. Include: cover slide, agenda, metrics/KPIs slide, highlights slide, challenges slide, next quarter roadmap, and thank you slide. Apply HiveMQ brand guidelines.",
+    "expectations": [
+      "Consistent use of HiveMQ brand colors across all slides",
+      "HiveMQ logomark appears in corner of content slides",
+      "Mix of color schemes (white, black, and yellow backgrounds) for variety",
+      "Charts and graphs use brand color palette",
+      "Typography is consistent (Arial)",
+      "Professional executive-level design",
+      "Slide layouts support presenting data and narrative"
+    ],
+    "input_files": []
+  },
+  {
+    "id": "eval-4",
+    "prompt": "Create a technical documentation cover page and first section for 'HiveMQ Enterprise Deployment Guide' with proper HiveMQ branding.",
+    "expectations": [
+      "Cover page has strong HiveMQ branding",
+      "Document uses brand colors appropriately",
+      "Technical content is readable and well-formatted",
+      "Headings use proper hierarchy",
+      "HiveMQ logo placement is appropriate",
+      "Design balances technical content with brand identity",
+      "Uses Arial font for accessibility"
+    ],
+    "input_files": []
+  }
+]
